@@ -20,7 +20,7 @@ Each sensor has its script in the `Hardware/` folder.
 - A mobile app was developed to interact with the Raspberry Pi Pico and make predictions using a **trained machine learning model**.
 - The **Varities of Soil.zip** file in `Software/` contains the trained model used for prediction.
 - The app code is not open-source here, but the model used for inference is shared.
-- **SoilMonitor.ipynb** defines the mode of this project.
+- **SoilMonitor.ipynb** defines the model of this project.
 ---
 
 ## 📽️ Demo Video
