@@ -23,6 +23,10 @@ Each sensor has its script in the `Hardware/` folder.
 - **SoilMonitor.ipynb** defines the model of this project.
 ---
 
+## 📱App Interface (ML App)
+|-----------------|----------------|
+| ![App_interface](images/app_interface.png) |
+
 ## 📽️ Demo Video
 
 🎥 **Watch the full demo here**:  
