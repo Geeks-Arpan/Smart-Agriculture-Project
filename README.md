@@ -1,4 +1,4 @@
-# 🌱 Smart Agriculture Monitoring System
+# 🌱 Smart Soil Monitoring System
 
 A Final Year Engineering Project combining **IoT (Raspberry Pi Pico)** and **Machine Learning (Mobile App)** for real-time soil monitoring and prediction.
 
