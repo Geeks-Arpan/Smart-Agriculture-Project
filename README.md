@@ -18,11 +18,9 @@ Each sensor has its script in the `Hardware/` folder.
 ## 💻 Software Part (ML App)
 
 - A mobile app was developed to interact with the Raspberry Pi Pico and make predictions using a **trained machine learning model**.
-- The **model.zip** file in `Software/` contains the trained model used for prediction.
+- The **Varities of Soil.zip** file in `Software/` contains the trained model used for prediction.
 - The app code is not open-source here, but the model used for inference is shared.
-
-> For detailed app usage and integration, refer to `Software/README.txt`.
-
+- **SoilMonitor.ipynb** defines the mode of this project.
 ---
 
 ## 📽️ Demo Video
@@ -42,12 +40,12 @@ Each sensor has its script in the `Hardware/` folder.
 
 ## 🚀 How to Run the Project
 
-1. **Connect all sensors** to Raspberry Pi Pico as per the diagram.
+1. **Connect all sensors** to the Raspberry Pi Pico according to the diagram.
 2. Upload the appropriate code from the `Hardware/` folder.
 3. Use the mobile app (not included here) to:
    - Collect sensor data
    - Make predictions using the ML model
-4. Optional: Host the model or use it within the app using the zipped file.
+4. Optional: Host the model or use the zipped file within the app.
 
 ---
 
