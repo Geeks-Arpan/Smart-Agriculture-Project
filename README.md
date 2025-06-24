@@ -24,8 +24,7 @@ A mobile app was developed to receive sensor data and make predictions using a t
 
 - Model training and evaluation are handled in [`SoilMonitor.ipynb`](./Software/SoilMonitor.ipynb)
 - The trained model is provided inside [`Varieties of Soil.zip`](./Software/Varieties%20of%20Soil.zip)
-- The mobile app source code is **not included** in this repository. However, a working demonstration is shown in the video below.
-
+- The mobile app source code is [`Soil Monitor.apk`](./Software/SoilMonitor.apk)
 ---
 
 ## 📱 App Interface
