@@ -52,7 +52,7 @@ A mobile app was developed to receive sensor data and make predictions using a t
 
 Here are some example outputs captured during project testing and deployment:
 
-| Database View (Sensor Data Stored) | App Output (Live Sensor Display) |
+| Database View | App Output (Live Sensor & Image data Display) |
 |------------------------------------|----------------------------------|
 | ![Database](https://github.com/user-attachments/assets/c1db7d71-9335-4241-90bc-fe0d839fb68a) | ![Mobile App](https://github.com/user-attachments/assets/c86b71fc-6d3b-4a0d-9810-8027593a1e58) |
 
