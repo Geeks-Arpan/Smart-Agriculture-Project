@@ -59,7 +59,7 @@ Here are some example outputs captured during project testing and deployment:
 
 ### ✅ Model Prediction Score Output
 
-![Prediction Output](https://github.com/user-attachments/assets/75750c75-20de-449e-8543-bfadeacbb8ae)
+![Prediction Score](https://github.com/user-attachments/assets/e4d9e915-b279-4469-8e46-41f4225d4364)
 
 ---
 
