@@ -48,6 +48,20 @@ https://youtu.be/GBO5wUBHAj4
 
 ---
 
+## 📊 Sample Outputs
+
+Here are some sample outputs captured during testing and deployment:
+
+| Database View (Stored Sensor Data) | App Output (Live Sensor Display) |
+|------------------------------------|----------------------------------|
+| ![Database](https://github.com/user-attachments/assets/c1db7d71-9335-4241-90bc-fe0d839fb68a)
+| ![Mobile App](https://github.com/user-attachments/assets/c86b71fc-6d3b-4a0d-9810-8027593a1e58)|
+
+### ✅ Model Prediction Score Output
+![Output](https://github.com/user-attachments/assets/75750c75-20de-449e-8543-bfadeacbb8ae)
+
+---
+
 ## 🚀 How to Run the Project
 
 1. **Connect the sensors** to the Raspberry Pi Pico as per the circuit diagram.
@@ -67,7 +81,7 @@ https://youtu.be/GBO5wUBHAj4
 
 **Machine Learning Algorithm Used:**
 
-- Algorithm: CNN (for image-based analysis)*
+- Algorithm: CNN (for image-based analysis)
 - Input Features: Moisture %, Temperature (°C), Humidity (%), Light Intensity
 - Output Labels: Soil Type (e.g., Sandy, Clayey, Alluvium, Black, etc.)
 - Dataset: Custom or UCI dataset used for soil classification
