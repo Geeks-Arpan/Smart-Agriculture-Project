@@ -107,7 +107,7 @@ Here are some example outputs captured during project testing and deployment:
 - **Subhrajyoti Mandal**
 - **Shibam Mishra**
 
-**Department of Electronics and Telecommunication Engineering**  
+**Department of Electronics and communication Engineering**  
 **Hooghly Engineering and Technology College**
 **Final Year Project – 2025**
 
