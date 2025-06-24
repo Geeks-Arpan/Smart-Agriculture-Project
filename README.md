@@ -45,7 +45,8 @@ The trained model is contained in the file`Varieties of Soil.zip` in the `Softwa
 
 | Circuit Diagram           | App Interface              |
 |---------------------------|----------------------------|
-| ![Circuit](images/circuit_diagram.png) | ![App](images/app_interface.png) |
+| ![Circuit Diagram](https://github.com/user-attachments/assets/e85bac13-11d3-4be0-8b5a-9a6d57083b21)|
+|  ![Soil_monitor_app](https://github.com/user-attachments/assets/c48e4985-830b-4291-acbf-1e708117e7bc)|
 
 ---
 
