@@ -108,7 +108,7 @@ Here are some example outputs captured during project testing and deployment:
 - **Shibam Mishra**
 
 **Department of Electronics and Telecommunication Engineering**  
-Hooghly Engineering and Technology College  
+**Hooghly Engineering and Technology College**
 **Final Year Project – 2025**
 
 ---
