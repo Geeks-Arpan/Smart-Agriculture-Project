@@ -1,72 +1,72 @@
 # 🌱 Smart Soil Monitoring System
 
-A Final Year Engineering Project combining **IoT (Raspberry Pi Pico)** and **Machine Learning (Mobile App)** for real-time soil monitoring and prediction.
+A Final Year Engineering Project that combines **IoT (Raspberry Pi Pico)** and **Machine Learning (Mobile App)** for real-time soil health monitoring and prediction.
 
 ---
 
-## 🔧 Hardware Part (Raspberry Pi Pico)
+## 🔧 Hardware (Raspberry Pi Pico)
 
-This project uses several sensors connected to a Raspberry Pi Pico:
+The system uses multiple sensors connected to a Raspberry Pi Pico:
 
-- **Soil Moisture Sensor**
-- **DHT11 Temperature & Humidity Sensor**
-- **LDR Light Sensor**
+- 🟤 **Soil Moisture Sensor**
+- 🌡️ **DHT11 Temperature & Humidity Sensor**
+- 💡 **LDR Light Sensor**
 
-Each sensor has its script inside the `Hardware/` folder.
-
-> These scripts read sensor data and send it for processing or display on the app.
-
----
-
-## 💻 Software Part (ML App)
-
-- A mobile app was developed to interact with the Raspberry Pi Pico and make predictions using a **trained machine learning model**.
-The trained model is contained in the file`Varieties of Soil.zip` in the `Software/` folder.
-- The file **SoilMonitor.ipynb`** defines and trains the ML model.
-- The app source code is not included in this repository, but the model and demonstration are available.
+> Individual sensor scripts are located in the `Hardware/` directory.  
+> These scripts read sensor data and send it to the mobile app or backend for further processing.
 
 ---
 
-## 📱 App Interface (ML App)
-![Soil_monitor_app](https://github.com/user-attachments/assets/f488958f-4498-40bb-b22e-27a99fd33dd2)
+## 💻 Software (ML Model + App)
+
+The mobile app interacts with the Raspberry Pi Pico and uses a **trained ML model** for prediction.
+
+- The trained model is provided in the `Software/Varieties of Soil.zip` file.
+- Model training and logic are defined in `Software/SoilMonitor.ipynb`.
+- The mobile app source code is not included in this repository, but the model and its use are documented.
+
+---
+
+## 📱 App Interface
+
+![Soil Monitor App](https://github.com/user-attachments/assets/f488958f-4498-40bb-b22e-27a99fd33dd2)
 
 ---
 
 ## 📽️ Demo Video
 
-🎥 **Watch the full demo here**:  
+🎥 **Watch the full project demonstration here**:  
 [![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
-> Replace `VIDEO_ID_HERE` with your actual YouTube video ID.
+> ℹ️ Replace `VIDEO_ID_HERE` with your actual YouTube video ID.
 
 ---
 
 ## 🖼️ Visuals
 
-| Circuit Diagram           | App Interface              |
-|---------------------------|----------------------------|
-| ![Circuit Diagram](https://github.com/user-attachments/assets/e85bac13-11d3-4be0-8b5a-9a6d57083b21)|
-|  ![Soil_monitor_app](https://github.com/user-attachments/assets/c48e4985-830b-4291-acbf-1e708117e7bc)|
+| Circuit Diagram | App Interface |
+|-----------------|----------------|
+| ![Circuit Diagram](https://github.com/user-attachments/assets/112bac72-8571-49c5-a52c-886eb62c75e9) | ![App UI](https://github.com/user-attachments/assets/c48e4985-830b-4291-acbf-1e708117e7bc) |
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. **Connect all sensors** to the Raspberry Pi Pico according to the circuit diagram.
-2. Upload the appropriate sensor code from the `Hardware/` folder.
+1. **Connect all sensors** to the Raspberry Pi Pico as per the circuit diagram.
+2. Upload the corresponding sensor scripts from the `Hardware/` folder.
 3. Launch the mobile app (not included here) to:
-   - Collect real-time sensor data
-   - Make predictions using the trained ML model
-4. Optionally, host or integrate the model using the zipped file provided.
+   - View live sensor data
+   - Run predictions using the trained ML model
+4. Use the model in `Varieties of Soil.zip` as needed for classification or integration.
 
 ---
 
-## 📄 Project Summary
+## ✅ Features
 
-- ✅ Real-time data collection via Raspberry Pi Pico and sensors
-- ✅ ML model trained to identify soil conditions
-- ✅ Mobile app for real-time interaction
-- ✅ Cost-effective and scalable solution for smart farming
+- Real-time data acquisition via Raspberry Pi Pico and sensors
+- Machine Learning-based prediction of soil type and condition
+- App-based monitoring and interaction
+- Scalable and cost-efficient solution for smart agriculture
 
 ---
 
@@ -78,6 +78,11 @@ The trained model is contained in the file`Varieties of Soil.zip` in the `Softwa
 
 Department of Electronics and Telecommunication Engineering  
 **Hooghly Engineering and Technology College**  
-**Final Year Project – 2025**
+Final Year Project – 2025
 
 ---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
