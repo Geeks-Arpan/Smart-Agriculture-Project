@@ -12,7 +12,7 @@ This project uses several sensors connected to a Raspberry Pi Pico:
 - **DHT11 Temperature & Humidity Sensor**
 - **LDR Light Sensor**
 
-Each sensor has its own script inside the `Hardware/` folder.
+Each sensor has its script inside the `Hardware/` folder.
 
 > These scripts read sensor data and send it for processing or display on the app.
 
@@ -21,15 +21,15 @@ Each sensor has its own script inside the `Hardware/` folder.
 ## 💻 Software Part (ML App)
 
 - A mobile app was developed to interact with the Raspberry Pi Pico and make predictions using a **trained machine learning model**.
-- The file **`Varieties of Soil.zip`** in the `Software/` folder contains the trained model.
-- The file **`SoilMonitor.ipynb`** defines and trains the ML model.
+The trained model is contained in the file`Varieties of Soil.zip` in the `Software/` folder.
+- The file **SoilMonitor.ipynb`** defines and trains the ML model.
 - The app source code is not included in this repository, but the model and demonstration are available.
 
 ---
 
 ## 📱 App Interface (ML App)
 
-<img src="images/app_interface.png" alt="App Interface" width="400"/>
+<img src="Pictures/Screenshots/Soil Monitor App" alt="App Interface" width="400"/>
 
 ---
 
