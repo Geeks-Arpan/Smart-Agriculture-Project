@@ -29,7 +29,7 @@ The trained model is contained in the file`Varieties of Soil.zip` in the `Softwa
 
 ## 📱 App Interface (ML App)
 
-<img src="Pictures/Screenshots/Soil Monitor App" alt="App Interface" width="400"/>
+<img src="C:\Users\ARPAN\OneDrive\Pictures\Screenshots\Soil Monitor App.png" alt="App Interface" width="400"/>
 
 ---
 
